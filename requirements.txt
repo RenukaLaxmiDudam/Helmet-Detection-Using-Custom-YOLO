@@ -1,0 +1,12 @@
+# CPU-only PyTorch keeps the Streamlit Cloud install small
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+torchvision
+ultralytics==8.4.199
+streamlit>=1.35
+opencv-python-headless
+numpy
+pandas
+pillow
+pyyaml
+matplotlib
